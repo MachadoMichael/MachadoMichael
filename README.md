@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front-end 
+- 🔭 I’m currently working on Software Developer 
 - 🌱 I’m currently learning React Native
 
 ##
