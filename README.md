@@ -6,6 +6,9 @@
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="MM-Js" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+
+<div style="display: inline_block"><br>
   <img align="center" alt="MM-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   -
   <img align="center" alt="MM-Ts"height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
