@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Software Developer 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning C# and SQL
 
 ##
 
