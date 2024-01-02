@@ -1,6 +1,6 @@
 ### Hi there 🖖🏻
 
-I'm a software engineer, currently working with java in the development of solutions for a medium-sized multinational company in Brazil.
+I'm a software engineer, currently working with C# in the development of solutions for a medium-sized multinational company in Brazil.
   
 <br>
 
