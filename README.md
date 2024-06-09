@@ -1,6 +1,8 @@
 ### Hi 🖖🏻
 
-I'm a Brazilian Software Engineer, usually working with backend, sometimes I do things on frontend too. But I've been focus my learning on API's, o11y, micro-services, docker, some languages and any tool that can help me be better. About myself, I'm a neovim user, I've been learning about data structs, algorithms, leetcode because I really enjoy this subjets.
+I'm a Brazilian Software Engineer, usually working with backend, sometimes I do things on frontend too. But I've been focus my learning on API's, o11y, micro-services, docker, some languages and any tool that can help me be better. 
+
+About myself, I'm a neovim user, I've been learning about data structs, algorithms, leetcode because I really enjoy this subjets and I'm always trying to be better.
 
 <br>
 <hr>
