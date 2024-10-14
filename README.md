@@ -29,7 +29,7 @@ I'm a Brazilian Software Engineer, usually working with backend, sometimes I do 
          
 
 <div>
-
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachadoMichael&layout=compact&langs_count=16&theme=radical" />
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MachadoMichael&show_icons=true&theme=radical" />
 
 
